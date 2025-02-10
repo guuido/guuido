@@ -28,9 +28,9 @@
       <text x="50" y="50" class="console ascii-art">
           <tspan x="50" y="67">$ guuido github-stats</tspan>
           <tspan x="50" y="119.5"><tspan class="cyan">account-age:</tspan> <tspan class="white">3169 days</tspan></tspan>
-          <tspan x="50" y="154.5"><tspan class="cyan">repos:</tspan> <tspan class="white">103</tspan></tspan>
-          <tspan x="50" y="189.5"><tspan class="cyan">commits:</tspan> <tspan class="white">716</tspan></tspan>
-          <tspan x="50" y="224.5"><tspan class="cyan">lines:</tspan> <tspan class="white">3157998 (<tspan class="green">7541288++</tspan>, <tspan class="red">4383290--</tspan>)</tspan></tspan>
+          <tspan x="50" y="154.5"><tspan class="cyan">repos:</tspan> <tspan class="white">104</tspan></tspan>
+          <tspan x="50" y="189.5"><tspan class="cyan">commits:</tspan> <tspan class="white">717</tspan></tspan>
+          <tspan x="50" y="224.5"><tspan class="cyan">lines:</tspan> <tspan class="white">3160389 (<tspan class="green">7543679++</tspan>, <tspan class="red">4383290--</tspan>)</tspan></tspan>
       </text>
 
   </svg>
